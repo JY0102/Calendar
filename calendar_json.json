@@ -1,0 +1,37 @@
+{
+    "d_day": [
+        {
+            "check_value": 1,
+            "name": "hi",
+            "date": 24
+        }
+    ],
+    "schedule": [
+        {
+            "date": "2002-01-02",
+            "content": [
+                "***one",
+                "two",
+                "three",
+                "FOUR",
+                "Birthday"
+            ],
+            "text_color": "GREEN"
+        },
+        {
+            "date": "2024-11-01",
+            "content": [
+                "example"
+            ],
+            "text_color": "DARK_GREEN"
+        },
+        {
+            "date": "2024-12-27",
+            "content": [
+                "bootcamp",
+                "WOOSONG"
+            ],
+            "text_color": "DAKR_YELLOW"
+        }
+    ]
+}
